@@ -128,6 +128,7 @@ const DatePickerIOS = createReactClass({
           date: propsTimeStamp,
         });
       }
+    }
   },
 
   render: function() {
